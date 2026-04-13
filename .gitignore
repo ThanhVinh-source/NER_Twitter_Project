@@ -2,7 +2,6 @@
 **/.DS_Store
 *.pdf
 *.env
-*.txt
 *.vec
 *.bin
 __pycache__/
