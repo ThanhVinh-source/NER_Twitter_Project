@@ -5,3 +5,4 @@
 *.vec
 *.bin
 __pycache__/
+*.vscode
