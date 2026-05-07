@@ -1,0 +1,13 @@
+jupyterlab
+ipykernel
+pandas
+numpy
+scipy
+scikit-learn
+sklearn-crfsuite
+nltk
+seqeval
+torch
+TorchCRF
+matplotlib
+seaborn

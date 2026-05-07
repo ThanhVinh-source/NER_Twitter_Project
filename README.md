@@ -151,7 +151,7 @@ cd "NER_TC/NER Project/NER"
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-python -m pip install jupyter pandas numpy scipy scikit-learn sklearn-crfsuite nltk seqeval torch TorchCRF matplotlib seaborn
+python -m pip install -r ../../../requirement.txt
 ```
 
 ### GloVe Twitter Embeddings
