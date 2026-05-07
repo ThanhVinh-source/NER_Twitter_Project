@@ -9,8 +9,9 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.13-blue">
   <img alt="Notebook" src="https://img.shields.io/badge/Jupyter-Notebook-orange">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-BiLSTM--CRF-red">
   <img alt="Task" src="https://img.shields.io/badge/Task-NER-purple">
-  <img alt="Best F1" src="https://img.shields.io/badge/Best_Test_F1-0.6858-brightgreen">
+  <img alt="Models" src="https://img.shields.io/badge/Models-HMM%20%7C%20CRF%20%7C%20BiLSTM--CRF-brightgreen">
 </p>
 
 <p>
@@ -31,6 +32,8 @@
 | --- | --- |
 | Domain | Twitter Named Entity Recognition |
 | Entity types | `PER`, `LOC`, `ORG`, `MISC` |
+| Code language | Python, Jupyter Notebook |
+| Models used | HMM, CRF, BiLSTM-CRF |
 | Best final model | Contextual CRF (`A2`) |
 | Best official test F1 | `0.6858` |
 | Main notebook | `NER_TC/NER Project/NER/notebook/NER Project.ipynb` |
