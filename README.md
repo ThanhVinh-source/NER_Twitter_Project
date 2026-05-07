@@ -55,6 +55,8 @@ Named Entity Recognition turns unstructured text into structured information by 
 
 Tweets are a difficult NER domain because they are short, informal, noisy, and often contain mentions, hashtags, URLs, abbreviations, spelling variation, and inconsistent capitalization. This project therefore compares classical, feature-based, and neural sequence-labelling methods to test whether more complex models actually improve performance on a small Twitter NER dataset.
 
+The project also reflects an evolution in NLP modelling thinking: it starts from a basic statistical sequence model (HMM), moves through a bridge of feature-based machine learning (CRF with handcrafted contextual features), and ends with a deep learning approach (BiLSTM-CRF with word and character representations). This progression makes the comparison useful not only as a performance benchmark, but also as a practical study of how NLP methods become more expressive as their representations and learning mechanisms become more advanced.
+
 ## Research Questions
 
 This project focuses on three questions:
